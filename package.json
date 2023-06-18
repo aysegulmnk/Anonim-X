@@ -1,5 +1,5 @@
 {
-  "name": "x-anonymous",
+  "name": "anonim-x",
   "version": "1.0.0",
   "description": "An anonymous end-to-end encrypted chat web application.",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "test": "npm test",
     "start": "node server.js"
   },
-  "author": "Xtrendence",
+  "author": "aysegulmnk",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
